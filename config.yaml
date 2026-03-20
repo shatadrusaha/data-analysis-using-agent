@@ -1,0 +1,7 @@
+api:
+  endpoint: "https://integrate.api.nvidia.com/v1"
+  model: "nvidia/llama-3.1-nemotron-ultra-253b-v1"
+
+data:
+  folder: "./data"
+  dataset_handle: "jiweiliu/nyc-parking-violations-2022-small"
